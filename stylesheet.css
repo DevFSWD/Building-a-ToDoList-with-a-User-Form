@@ -1,0 +1,14 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.custom-light-green {
+  background-color: #d4edda !important;
+  color: #155724 !important;
+}
+
+#taskList li, #removedList li {
+  padding: 10px;
+  margin-bottom: 6px;
+}
+
